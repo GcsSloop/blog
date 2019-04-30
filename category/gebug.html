@@ -1,0 +1,34 @@
+---
+layout: post
+category: Info
+title: 雕虫晓技
+date: 1970-01-01 00:00:00.000000000 +00:00
+tags: GcsSloop, gebug
+keywords: GcsSloop, gcssloop
+excerpt: 雕虫晓技
+---
+
+<p>
+<b>简单技术的深度挖掘，从简单中发现不简单</b><br/> 
+雕虫晓技这一系列文章的定位为杂谈，因此你会发现里面不仅有 Android 相关技术，还有一些乱七八糟的工具推荐，一些与开发相关的小技巧，同时也会包括一些个人杂谈等内容。
+</p>
+
+  <ul>
+    <!--置顶-->
+    {% for post in site.posts reversed %}
+    {% if post.category == "GeBug" %}
+        <li>
+            {% if post.relink %}
+            <h1 class="time-line-title"><a href="{{ post.relink }}" title="访问 {{ post.title }}" target="_blank">{{ post.title }}[专栏]</a></h1>
+            {% else %}
+            <h1 class="time-line-title"><a href="{{ post.url }}" title="访问 {{ post.title }}">{{ post.title }}</a></h1>
+            {% endif %}
+        </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+<hr/>
+<p>
+如果对本系列文章中存在疑问的话，可以到我的 <a href="https://github.com/GcsSloop" target="_blank">GitHub</a> 上提交 Issues。
+</p>
+
