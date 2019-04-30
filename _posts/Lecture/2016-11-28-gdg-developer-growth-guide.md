@@ -160,7 +160,7 @@ Hello，大家好，我是 GcsSloop，今天是我第一次在这么多陌生人
 
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
-<a href="http://www.gcssloop.com/info/about/" target="_blank"> <img src="http://gcsblog.oss-cn-shanghai.aliyuncs.com/blog/2019-04-29-tiny_005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg?gcssloop"  width="300" style="display:inline;"/> </a>
+<a href="http://www.gcssloop.com/info/about/" target="_blank"> <img src="http://gcsblog.oss-cn-shanghai.aliyuncs.com/blog/gcs_banner.jpg?gcssloop"  width="300" style="display:inline;"/> </a>
 
 [^1]: GDG 全称 Google Developer Group，中文意思是 **谷歌开发者社区** 。
 [^2]: DevFest 开发者节，今年(2016)的举办时间是 9月1日 到 11月30日 之间，全球大部分谷歌开发者社区都会举办该活动，一年一次。

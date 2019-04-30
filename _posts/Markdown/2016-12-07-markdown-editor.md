@@ -124,7 +124,7 @@ Trpora 也用到了这一特性，点击 `File > Revert To > Browse All Versions
 
 ### 作者微博: <a href="http://weibo.com/GcsSloop" target="_blank">@GcsSloop</a>
 
-<a href="http://www.gcssloop.com/info/about" target="_blank"><img src="http://gcsblog.oss-cn-shanghai.aliyuncs.com/blog/2019-04-29-tiny_005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg?gcssloop" width="300" style="display:inline;" /></a>
+<a href="http://www.gcssloop.com/info/about" target="_blank"><img src="http://gcsblog.oss-cn-shanghai.aliyuncs.com/blog/gcs_banner.jpg?gcssloop" width="300" style="display:inline;" /></a>
 
 [^1]: 会长，就是 GcsSloop 我啦，因为创建了一个名为魔法师协会的交流群，所以自称会长，想要加入魔法师协会的魔法师可以加我的微信 `GcsSloop`，备注加群或者私信我，我会邀请你加入魔法师的大家庭。
 

@@ -348,5 +348,5 @@ Android 中事件分发机制原理虽然非常简单，但由于实际场景非
 
 ### 作者微博: <a href="http://weibo.com/GcsSloop" target="_blank">@GcsSloop</a>
 
-<a href="http://www.gcssloop.com/info/about" target="_blank"><img src="http://gcsblog.oss-cn-shanghai.aliyuncs.com/blog/2019-04-29-tiny_005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg?gcssloop" width="300" style="display:inline;" /></a>
+<a href="http://www.gcssloop.com/info/about" target="_blank"><img src="http://gcsblog.oss-cn-shanghai.aliyuncs.com/blog/gcs_banner.jpg?gcssloop" width="300" style="display:inline;" /></a>
 
