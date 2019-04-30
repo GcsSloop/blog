@@ -66,4 +66,4 @@ redirect_from:
 
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
-<a href="http://www.gcssloop.com/info/about/" target="_blank"> <img src="http://gcsblog.oss-cn-shanghai.aliyuncs.com/blog/2019-04-29-005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg?gcssloop"  width="300" style="display:inline;"/> </a>
+<a href="http://www.gcssloop.com/info/about/" target="_blank"> <img src="http://gcsblog.oss-cn-shanghai.aliyuncs.com/blog/gcs_banner.jpg?gcssloop"  width="300" style="display:inline;"/> </a>
