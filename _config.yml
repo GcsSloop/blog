@@ -25,7 +25,6 @@ blog_button:
 nav:
     - {title: GitHub,     in_site: false,  description: GcsSloop's GitHub,    url: 'https://github.com/GcsSloop'}
     - {title: 目录,        in_site: true,  description: 博客目录,               url: '/timeline.html'}
-    - {title: 专栏,        in_site: false,  description: 小专栏, url: 'https://xiaozhuanlan.com/u/GcsSloop'}
     - {title: 自定义控件,   in_site: true,  description: 自定义View教程目录,      url: '/category/customview.html'}
     - {title: 友链,        in_site: true,  description: 友链,       url: '/friends.html'}
     
