@@ -6,6 +6,7 @@ date: 1970-01-01 00:00:00.000000000 +00:00
 tags: GcsSloop, info
 keywords: GcsSloop, gcssloop
 excerpt: 友情链接。
+permalink: /friends.html
 ---
 
 <div class="friendsdiv">
