@@ -48,6 +48,7 @@ jobs:
         run: |
           wget https://gosspublic.alicdn.com/ossutil/1.7.18/ossutil64 -O /tmp/ossutil64
           chmod +x /tmp/ossutil64
+          echo "/tmp" >> $GITHUB_PATH
           /tmp/ossutil64 --version
 
       - name: Deploy to Alibaba Cloud OSS
